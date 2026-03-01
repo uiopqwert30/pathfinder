@@ -1,5 +1,6 @@
 # Alucard – Overview
-![[H5HXAAYRQZFXE7WXQ73V4EIHS3UX62CC.gif]]
+![[H5HXAAYRQZFXE7WXQ73V4EIHS3UX62CC.gif|697]]  
+
 **Ancestry:** Human Dhampir  
 **Class:** Battle Dancer  
 **Companion:** Giant Centipede (Velistra)  

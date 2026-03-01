@@ -2,7 +2,7 @@
 | ---------- | --------------------- |
 | Reckless   | Charges first         |
 | Theatrical | Taunts enemies        |
-| Ego-driven | Rejects father’s path |
+
 - - -
 ## Contraposta
 

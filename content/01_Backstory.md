@@ -125,12 +125,10 @@ out of character:
 Ik ben vergeten waarom ik de party ben gejoind (:
 
 
-Bandits. Monsters. Fey. Political chaos. Blood in every direction. The stolen lands are perfect.
+Bandits. Monsters. Fey. Political chaos. Blood in every direction. The stolen lands are perfect to start his performance. 
 
 An endless stage.
 
 He doesn’t care about ruling.
 
 He cares about carving his legend so violently and beautifully that people amaze at his performance.
-
-They will come to watch.

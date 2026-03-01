@@ -1,7 +1,9 @@
-| Trait      | Expression            |
-| ---------- | --------------------- |
-| Reckless   | Charges first         |
-| Theatrical | Taunts enemies        |
+![[underconstruction.gif]]
+
+| Trait      | Expression     |
+| ---------- | -------------- |
+| Reckless   | Charges first  |
+| Theatrical | Taunts enemies |
 
 - - -
 ## Contraposta

@@ -1,3 +1,4 @@
+![[underconstruction.gif]]
 ## Personality in combat
 
 - Laughs when critically hit.
@@ -10,10 +11,6 @@
 - Takes unnecessary risks to make moments flashier.
     
 - Always positions himself where everyone can see him.
-
-He doesn’t want clean victories.
-
-He wants unforgettable ones.
 
 ## Battle Cry Ideas
 
